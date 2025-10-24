@@ -5,7 +5,7 @@
 
 ---
 
-### 🌱 About Me
+###  About Me
 - 🧠 Currently learning **Machine Learning**, **Deep Learning**, and **AI Automation**
 - 💻 Exploring tools like **Scikit-learn**, **Pandas**, **TensorFlow**, and **Hugging Face**
 - 🧩 Working on internship projects and mini ML models to strengthen my foundation
