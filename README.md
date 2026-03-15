@@ -1,71 +1,101 @@
-<h1 align="center">Hi 👋, I'm Hamna Munir</h1>
-<h3 align="center">BS Software Engineering Student | Aspiring Software Developer | Learning DSA</h3>
-
----
-
-🔭 I’m currently working on  
-Data Structures & Algorithms, Web Development projects, and improving problem-solving skills.
-
-🌱 I’m currently learning  
-Advanced DSA, Git & GitHub workflows, JavaScript, and modern web development tools.
-
-👯 I’m looking to collaborate on  
-Open-source beginner-friendly projects, web development projects, and student developer communities.
-
-🤝 I’m looking for help with  
-Improving my problem-solving skills, contributing to open-source, and building real-world projects.
-
-👨‍💻 All of my projects are available at  
-👉 https://github.com/Hamna-Munir
-
-💬 Ask me about  
-HTML, CSS, JavaScript basics, GitHub, beginner programming, and DSA learning journey.
-
-📫 How to reach me  
-📧 hamnamunir@example.com
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://github.com/Hamna-Munir" target="blank">GitHub</a>
-</p>
-
----
-
-### 🚀 Languages and Tools
-
-<p align="left">
-  
-• HTML  
-• CSS  
-• JavaScript  
-• C++  
-• Git  
-• GitHub  
-• VS Code  
-
-</p>
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi 👋 I'm Hamna Munir</h1>
+<h3 align="center">Software Engineering Student | Machine Learning Learner | Future AI Developer</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hamna-Munir&show_icons=true&theme=tokyonight" />
+I enjoy learning how technology can solve real-world problems.  
+Currently exploring Machine Learning while strengthening my programming and problem-solving skills.
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+* 🎓 BS **Software Engineering Student**
+* 🤖 Currently exploring **Machine Learning & Artificial Intelligence**
+* 💡 Interested in **data-driven solutions and intelligent applications**
+* 📚 Improving my **Data Structures & Algorithms** skills
+* 🚀 Building projects to turn **ideas into practical software**
+
+---
+
+## 🌐 My Profiles
+
+* 💻 **GitHub**
+  https://github.com/Hamna-Munir
+
+* 📊 **Kaggle**
+  https://www.kaggle.com/hamnamunir
+
+* 🔗 **LinkedIn**
+  https://www.linkedin.com/in/hamna-munir-6891a72a0/
+
+* 🌍 **Portfolio Website**
+  https://hamna-munir.lovable.app/
+
+---
+
+## 🧰 Tools & Technologies I Use
+
+**Programming**
+
+* Python
+* C++
+
+**Web Development**
+
+* HTML
+* CSS
+* JavaScript
+
+**Machine Learning & Data**
+
+* NumPy
+* Pandas
+* Scikit-learn
+* Jupyter Notebook
+
+**Development Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamna-Munir&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hamna-Munir&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamna-Munir&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 💡 Quote
+## 📈 Contribution Activity
 
-"Consistency and continuous learning build strong foundations in software development."
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamna-Munir&theme=tokyo-night"/>
+</p>
 
 ---
 
-⭐ From [Hamna-Munir](https://github.com/Hamna-Munir)
+## 🎯 Current Learning Focus
+
+* Machine Learning fundamentals
+* Python for Data Science
+* Data analysis and visualization
+* Building practical ML projects
+
+---
+
+## ✨ Personal Motto
+
+> *"Learning step by step, building skills consistently, and growing as a developer every day."*
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
