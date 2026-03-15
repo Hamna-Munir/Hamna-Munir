@@ -80,10 +80,13 @@ NumPy • Pandas • Scikit-learn • Jupyter Notebook
 
 # 🎯 Current Focus
 
-✔ Learning **Machine Learning algorithms**
-✔ Building **Python-based ML projects**
-✔ Improving **problem-solving & DSA**
-✔ Contributing to **open-source projects**
+- Learning **Machine Learning algorithms**
+
+- Building **Python-based ML projects**
+
+- Improving **problem-solving & DSA**
+
+- Contributing to **open-source projects**
 
 ---
 
