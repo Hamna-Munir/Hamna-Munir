@@ -11,9 +11,13 @@ Currently learning Machine Learning while building strong programming and softwa
 # 👩‍💻 About Me
 
 🎓 BS Software Engineering Student
+
 🤖 Exploring **Machine Learning & Artificial Intelligence**
+
 💡 Interested in building **data-driven solutions**
+
 📚 Improving **Data Structures & Algorithms**
+
 🚀 Passionate about turning ideas into **real-world applications**
 
 ---
