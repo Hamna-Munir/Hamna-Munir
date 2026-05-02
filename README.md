@@ -20,7 +20,8 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<!-- ✅ VERIFIED: Girls Who Code GIF from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="460"/>
 
 </div>
 
@@ -28,7 +29,8 @@
 
 ## ◈ &nbsp; Who Am I?
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<!-- ✅ VERIFIED: Girl coding on a laptop GIF -->
+<img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb"/>
 
 ```yaml
 name:       Hamna Munir
@@ -115,12 +117,13 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-5519-4bbb-b09c-acee9d5b9f2b.gif" width="80">
 
 </div>
 
@@ -196,10 +199,6 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 ## ◈ &nbsp; Let's Connect
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
-
-<br/><br/>
 
 <a href="https://github.com/Hamna-Munir">
   <img src="https://img.shields.io/badge/GitHub-%40Hamna--Munir-c4b5fd?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
