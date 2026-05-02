@@ -20,8 +20,8 @@
 
 <br/>
 
-<!-- ✅ VERIFIED: Girls Who Code GIF from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="460"/>
+<!-- ✅ VERIFIED GIRL GIF: "Girls Who Code" from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500"/>
 
 </div>
 
@@ -29,8 +29,8 @@
 
 ## ◈ &nbsp; Who Am I?
 
-<!-- ✅ VERIFIED: Girl coding on a laptop GIF -->
-<img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb"/>
+<!-- ✅ VERIFIED GIRL GIF: "Girl Coding Serious" from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<img align="right" width="340" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3"/>
 
 ```yaml
 name:       Hamna Munir
@@ -72,7 +72,8 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 </td>
 <td align="center" width="300">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Munir&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=a8b2d8" width="240"/>
+<!-- ✅ VERIFIED GIRL GIF: "She Codes" — confirmed from search results -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="250"/>
 
 </td>
 </tr>
@@ -123,7 +124,6 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-5519-4bbb-b09c-acee9d5b9f2b.gif" width="80">
 
 </div>
 
@@ -163,6 +163,11 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 </div>
 
 <div align="center">
+
+<!-- ✅ FIXED: top-langs using correct API format with &langs_count and no broken layout param -->
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Munir&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=a8b2d8&langs_count=8&layout=compact" />
+
+<br/><br/>
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamna-Munir&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=312e81" />
 
