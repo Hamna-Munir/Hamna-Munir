@@ -240,7 +240,7 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&bg_color=0d1117&color=60a5fa&line=2563eb&point=f59e0b&area=true&hide_border=true&area_color=1e3a5f" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
