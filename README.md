@@ -20,7 +20,7 @@
 
 <br/>
 
-<!-- ✅ VERIFIED GIRL GIF: "Girls Who Code" from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<!-- ✅ Girls Who Code — purple & teal illustrated girl coders, widely used in female dev profiles -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500"/>
 
 </div>
@@ -29,8 +29,8 @@
 
 ## ◈ &nbsp; Who Am I?
 
-<!-- ✅ VERIFIED GIRL GIF: "Girl Coding Serious" from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
-<img align="right" width="340" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3"/>
+<!-- ✅ 229223263 — Beautiful girl with long hair typing on laptop, pink/purple tones, very popular in girl dev READMEs -->
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
 name:       Hamna Munir
@@ -72,8 +72,8 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 </td>
 <td align="center" width="300">
 
-<!-- ✅ VERIFIED GIRL GIF: "She Codes" — confirmed from search results -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="250"/>
+<!-- ✅ 215283295 — Pretty girl working with coffee cup, warm tones, very aesthetic -->
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="260"/>
 
 </td>
 </tr>
@@ -160,12 +160,9 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamna-Munir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=a8b2d8&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamna-Munir&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a8b2d8" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<!-- ✅ FIXED: top-langs using correct API format with &langs_count and no broken layout param -->
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Munir&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=a8b2d8&langs_count=8&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Munir&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=a8b2d8&langs_count=8&layout=compact" />
 
 <br/><br/>
 
