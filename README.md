@@ -236,14 +236,20 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzayasirabdullahbaig07&theme=tokyonight" />
-<img width="49%" src="https://streak-stats.demolab.com?user=mirzayasirabdullahbaig07&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=a8b2d8" />
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" align="center" valign="top">
+<img width="100%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzayasirabdullahbaig07&theme=tokyonight" />
+</td>
+<td width="50%" align="center" valign="top">
+<img width="100%" height="195px" src="https://streak-stats.demolab.com?user=mirzayasirabdullahbaig07&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=a8b2d8" />
+</td>
+</tr>
+</table>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="95%" src="https://ghchart.rshah.org/60a5fa/mirzayasirabdullahbaig07" />
+<img width="100%" src="https://ghchart.rshah.org/60a5fa/mirzayasirabdullahbaig07" />
 
 </div>
 
