@@ -74,10 +74,13 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 </td>
 <td align="center" width="300">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzayasirabdullahbaig07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=a8b2d8&langs_count=6" width="260"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzayasirabdullahbaig07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=a8b2d8&langs_count=6&cache_seconds=1800" width="260"/>
 
-<br/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-★★★☆☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -233,7 +236,7 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirzayasirabdullahbaig07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=2563eb&text_color=a8b2d8&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirzayasirabdullahbaig07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=2563eb&text_color=a8b2d8&count_private=true&rank_icon=github&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com?user=mirzayasirabdullahbaig07&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=a8b2d8" />
 
 </div>
