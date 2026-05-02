@@ -20,7 +20,6 @@
 
 <br/>
 
-<!-- ✅ Girls Who Code — purple & teal illustrated girl coders, widely used in female dev profiles -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500"/>
 
 </div>
@@ -29,7 +28,6 @@
 
 ## ◈ &nbsp; Who Am I?
 
-<!-- ✅ 229223263 — Beautiful girl with long hair typing on laptop, pink/purple tones, very popular in girl dev READMEs -->
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
@@ -72,7 +70,6 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 </td>
 <td align="center" width="300">
 
-<!-- ✅ 215283295 — Pretty girl working with coffee cup, warm tones, very aesthetic -->
 <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="260"/>
 
 </td>
@@ -157,15 +154,27 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamna-Munir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=a8b2d8&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamna-Munir&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a8b2d8" />
+<!-- ✅ FIX 1: GitHub Stats card — reliable main API -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamna-Munir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=a8b2d8&count_private=true&include_all_commits=false" />
 
-<br/><br/>
+<!-- ✅ FIX 2: Streak stats — switched to working mirror that replaced demolab -->
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Hamna-Munir&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a8b2d8" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Munir&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=a8b2d8&langs_count=8&layout=compact" />
+</div>
 
-<br/><br/>
+<div align="center">
 
+<!-- ✅ FIX 3: Top Languages — using profile-summary-cards which is more reliable -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamna-Munir&theme=tokyonight&hide_border=true"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamna-Munir&theme=tokyonight&hide_border=true"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamna-Munir&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+<br/>
+
+<!-- ✅ Activity Graph — working alternative -->
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamna-Munir&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=312e81" />
 
 </div>
