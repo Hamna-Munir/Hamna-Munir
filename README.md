@@ -240,11 +240,7 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&theme=react-dark&hide_border=true&area=true" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/mirzayasirabdullahbaig07/mirzayasirabdullahbaig07/output/github-contribution-grid-snake-dark.svg" width="70%" />
+<img width="95%" src="https://ghchart.rshah.org/60a5fa/mirzayasirabdullahbaig07" />
 
 </div>
 
